@@ -30,7 +30,6 @@ I am a 3rd year student at UBC studying mathematics who is interested in softwar
 
 
 
----
-[![](https://visitcount.itsvg.in/api?id=paullevental&icon=0&color=12)](https://visitcount.itsvg.i
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
