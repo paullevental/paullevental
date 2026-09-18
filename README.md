@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-I am a 3rd year student at UBC studying mathematics who is interested in software development and machine learning. 
+Hey, my name is Paul, I'm a 4th year student at UBC studying mathematics with a keen interest in building projects with Python, Java, Typescript and SQL. Some projects I have built include a full stack attention tracking application, a Miniature Kafka clone built from scratch and many more. 
 
 
 ## 🌐 Socials:
